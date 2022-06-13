@@ -4,9 +4,9 @@
 
 ### Color Palette
 
-- **<span style="color:#06bee1">████ `#06bee1` - Primary</span>**
-- **<span style="color:#f6ae2d">████ `#f6ae2d` - Secondary</span>**
-- **<span style="color:#588157">████ `#588157` - Tertiary</span>**
+- **![#06bee1](https://via.placeholder.com/15/06bee1/000000?text=+) `#06bee1` Primary**
+- **![#f6ae2d](https://via.placeholder.com/15/f6ae2d/000000?text=+) `#f6ae2d` Secondary**
+- **![#588157](https://via.placeholder.com/15/588157/000000?text=+) `#588157` Tertiary**
 
 ### Font
 
