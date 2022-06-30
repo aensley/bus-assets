@@ -1,6 +1,6 @@
 # BUS Assets
 
-Assets for Basic URL Shortener
+Assets for [Basic URL Shortener](https://github.com/aensley/bus)
 
 ## Style Guide
 
